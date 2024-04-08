@@ -19,6 +19,9 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+Developed By: SANDHIYA.R
+Register No: 212223240146
+
 def swap(a,b):
     t=a
     a=b
@@ -29,9 +32,8 @@ b=input()
 a,b=swap(a,b)
 print("Swapped values are: {} {}".format(a,b))
 ```
-
 ##OUTPUT:
-![Screenshot (1)](https://github.com/SandhiyaRajagopal/Swapping-two-values/assets/144870852/b4548a3b-7ab9-4f06-a7a4-8e07a2d71338)
+![alt text](<Screenshot (118).png>)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
